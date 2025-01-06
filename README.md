@@ -1,2 +1,3 @@
-<h3>my skills</h3>
+<h3>My experties</h3>
+<hr/>
 <img src="https://skillicons.dev/icons/?i=html,css,bootstrap,js,npm,git,github," />
