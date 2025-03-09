@@ -10,9 +10,14 @@
 [![Supabase](https://img.shields.io/badge/Supabase-181717?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahdi-Devm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Devm&theme=tokyonight&hide_border=false)<br/>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Devm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Devm&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </div>
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
