@@ -16,6 +16,10 @@
   <img alt="Mahdi-Devm's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mahdi-Devm&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
 </a>
 
+
+  <a href="https://github.com/Mahdi-Devm?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 </div>
 
 
