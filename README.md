@@ -1,4 +1,4 @@
-# Hi, I'm yeongpin! 👋
+# Hi, I'm Mahdi! 👋
 
 <div align="center">
 
