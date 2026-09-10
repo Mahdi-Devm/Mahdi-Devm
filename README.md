@@ -18,9 +18,10 @@
 
     for Front End :
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux" /><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux," /><br/>
 <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
 
 
