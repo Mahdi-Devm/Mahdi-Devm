@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/vitest-000000?style=flat&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white" />
+
 
 
     for Back End :
